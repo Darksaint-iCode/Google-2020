@@ -1,0 +1,154 @@
+body{
+			font-family: "Balthazar";
+			margin: 0;
+			padding: 0;
+		}
+		#bam{
+			padding-left: 826px;
+			position: absolute;
+			/*clear: both;*/
+		}
+		#i{
+			font-family: "Baloo Paaji";
+			font-size: 30px;
+		}
+		#j{
+			font-style: ;
+			font-size: 16px;
+			letter-spacing: 1px;
+		}
+		#a{
+			width: 140px;
+  			height: 8px;
+  			padding:12px;
+  			border:1px solid #ccc;
+  			border-radius: 4px;
+  			resize: vertical;
+  			font-size: 15px;
+		}
+		#b{
+			width: 311px;
+  			height: 8px;
+  			padding:12px;
+  			border:1px solid #ccc;
+  			border-radius: 4px;
+  			resize: vertical;
+  			font-size: 15px;
+		}
+		#c{
+			width: 311px;
+  			height: 8px;
+  			padding:12px;
+  			border:1px solid #ccc;
+  			border-radius: 4px;
+  			resize: vertical;
+  			font-size: 15px;
+		}
+		#d{
+			font-family: ;
+			font-size: 16px ;
+			color: blue;
+		}
+		#m{
+			width: 120px;
+  			height: 6px;
+  			padding:12px;
+  			border:1px solid #ccc;
+  			border-radius: 4px;
+  			resize: vertical;
+  			font-size: 15px;
+		}
+		#o{
+			font-family: ;
+			font-size: 18px;
+		}
+		img{
+			width: 20px;
+			height: 20px;
+		}
+		#r{
+			text-decoration: none;
+			color: blue;
+		}
+		#f{
+			font-family: ;
+			font-size: 14px;
+		}
+		#g{
+			width: 200px;
+			height: 45px;
+			font-size: 18px;
+			font-weight: bold;
+			background-color: green;
+		    color: white;
+		    padding: 12px 20px;
+		    border:outset;
+		    border-radius: 7px;
+		    cursor: pointer;
+		    box-shadow: 0 8px 16px 0
+  			rgba(0,0,0,0.24), 0 6px 20px 0
+  			rgba(0,0,0,0.19);
+		}
+		#h{
+			font-family: ;
+			font-size: 17px;
+		}
+		#z{
+			position: absolute;
+			top: 15px;
+			left: 85px;
+			
+			font-family: "Baloo";
+			font-size: 45px;
+			color: white;
+		}
+		#x{
+			float: right;
+			padding-right: 180px;
+			margin-top: 1em;
+		}
+		#k{
+			font-family: ;
+			color: white;	
+		}
+		#q{
+			width: 135px;
+			border:1px solid #ccc;
+			border-radius: 1px;
+  			resize: vertical;
+		}
+		button{
+			background-color: darkblue;
+			border: 1px solid white;
+			color: white
+		}
+		#qw{
+			margin-left: 990px;
+			clear: both;
+			text-decoration: none;
+			color: lightblue;
+			cursor: pointer;
+		}
+
+		.nav{
+			background-color: #3b5998;
+			height: 90px;
+		}
+		.img{
+			position: absolute;
+			top: 120px;
+			width: 450px;
+		  	height: 250px;
+		  	display: block;
+		}
+		.lefttext{
+			font-family: "Assistant";
+			font-size: 20px;
+			color: #3b5998;
+			font-weight: bolder;
+		}
+		.left{
+			top:100px;
+			left: 280px;
+			position: absolute;
+		}
